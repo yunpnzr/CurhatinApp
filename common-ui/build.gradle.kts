@@ -40,6 +40,7 @@ android {
 
 dependencies {
     implementation(project(Modules.core))
+    //implementation(project(Modules.app))
 
     implementation(files(fileTree("libs") {
         include("*.jar")
