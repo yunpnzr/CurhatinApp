@@ -1,6 +1,7 @@
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
+    id("com.google.gms.google-services")
 }
 
 android {
@@ -41,6 +42,7 @@ dependencies {
     implementation(Dependencies.core)
     implementation(Dependencies.appCompact)
     implementation(Dependencies.androidMaterial)
+    implementation("com.google.firebase:firebase-auth:22.2.0")
 
     testing()
 }

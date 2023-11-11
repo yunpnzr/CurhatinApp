@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.common_ui"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 24
@@ -47,7 +47,7 @@ dependencies {
     }))
     implementation(Dependencies.stblib)
 
-    implementation("androidx.core:core-ktx:1.9.0")
+    implementation(Dependencies.core)
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.10.0")
     testImplementation("junit:junit:4.13.2")

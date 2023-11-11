@@ -7,6 +7,7 @@ fun DependencyHandler.compose(){
     implementation(Dependencies.composeGraphics)
     implementation(Dependencies.composeToolingPreview)
     implementation(Dependencies.composeMaterial)
+    implementation(Dependencies.navigationCompose)
     androidTestImplementation(platform(Dependencies.composeBom))
     androidTestImplementation(Dependencies.composeTestJunit)
     debugImplementation(Dependencies.composeUITooling)

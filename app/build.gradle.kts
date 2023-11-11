@@ -61,6 +61,6 @@ dependencies {
     implementation(Dependencies.core)
     implementation(Dependencies.lifecycleRuntime)
 
-    testing()
     compose()
+    testing()
 }

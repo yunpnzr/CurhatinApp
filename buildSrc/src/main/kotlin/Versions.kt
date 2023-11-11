@@ -15,6 +15,7 @@ object Versions {
     //compose
     const val activityCompose = "1.8.0"
     const val composeBom = "2023.03.00"
+    const val navigationCompose = "2.5.3"
 
     //android material
     const val androidMaterial = "1.10.0"

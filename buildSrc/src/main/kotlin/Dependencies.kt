@@ -22,6 +22,7 @@ object Dependencies {
     const val composeGraphics = "androidx.compose.ui:ui-graphics"
     const val composeUI = "androidx.compose.ui:ui"
     const val composeUITooling = "androidx.compose.ui:ui-tooling"
+    const val navigationCompose = "androidx.navigation:navigation-compose:${Versions.navigationCompose}"
 
     //android material
     const val androidMaterial = "com.google.android.material:material:${Versions.androidMaterial}"

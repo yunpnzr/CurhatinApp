@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864782929611",
+    "project_id": "curhatinapp-98d74",
+    "storage_bucket": "curhatinapp-98d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864782929611:android:a9f87a93e6ac8f4822154e",
+        "android_client_info": {
+          "package_name": "com.example.core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864782929611-e30r30mncvvkumrnpivinb2c391babi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.curhatinapp",
+            "certificate_hash": "d9817f05faad8f51f3da7c23c2cd9473a5295dd1"
+          }
+        },
+        {
+          "client_id": "864782929611-6m89knq600n91barlpcaptgk45d0asue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFXIhRGj8ewOjwdPyjn3BkFvT1sVru50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864782929611-2js5toc0m9gfs7vc1kmf2ocgkpqjpo0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
